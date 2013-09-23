@@ -1,5 +1,8 @@
 # Adam Keys' lovely app generator
 
+> It's a town full of losers who generate Rails apps by hand
+> And we're pullin' out of here to win
+
 ...because I got tired of remembering the options to `rails new`.
 
 What you get:
